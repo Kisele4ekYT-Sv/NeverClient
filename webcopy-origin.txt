@@ -1,0 +1,104 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/fetch/3.6.2/fetch.min.js
+File Name: D:\rabochi stol ch cges\www.wildclient.ru\ajax\libs\fetch\3.6.2\fetch.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap
+File Name: D:\rabochi stol ch cges\www.wildclient.ru\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: D:\rabochi stol ch cges\www.wildclient.ru\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: D:\rabochi stol ch cges\www.wildclient.ru\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://www.google.com/recaptcha/api.js
+File Name: D:\rabochi stol ch cges\www.wildclient.ru\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.wildclient.ru/
+File Name: D:\rabochi stol ch cges\www.wildclient.ru\index.htm
+Content Type: text/html
+
+Uri: https://www.wildclient.ru/assets/css/media.css?v=33
+File Name: D:\rabochi stol ch cges\www.wildclient.ru\assets\css\media.css
+Content Type: text/css
+
+Uri: https://www.wildclient.ru/assets/css/normalize.css
+File Name: D:\rabochi stol ch cges\www.wildclient.ru\assets\css\normalize.css
+Content Type: text/css
+
+Uri: https://www.wildclient.ru/assets/css/style.css?v=44
+File Name: D:\rabochi stol ch cges\www.wildclient.ru\assets\css\style.css
+Content Type: text/css
+
+Uri: https://www.wildclient.ru/assets/img/8cfb76c8af04b72de1096c55862ae518 1.svg
+File Name: D:\rabochi stol ch cges\www.wildclient.ru\assets\img\8cfb76c8af04b72de1096c55862ae518 1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.wildclient.ru/assets/img/Bag 2 1.svg
+File Name: D:\rabochi stol ch cges\www.wildclient.ru\assets\img\Bag 2 1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.wildclient.ru/assets/img/bg.png
+File Name: D:\rabochi stol ch cges\www.wildclient.ru\assets\img\bg.png
+Content Type: image/png
+
+Uri: https://www.wildclient.ru/assets/img/burger-menu-svgrepo-com.svg
+File Name: D:\rabochi stol ch cges\www.wildclient.ru\assets\img\burger-menu-svgrepo-com.svg
+Content Type: image/svg+xml
+
+Uri: https://www.wildclient.ru/assets/img/Buy Icon.svg
+File Name: D:\rabochi stol ch cges\www.wildclient.ru\assets\img\Buy Icon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.wildclient.ru/assets/img/Ellipse 1.svg
+File Name: D:\rabochi stol ch cges\www.wildclient.ru\assets\img\Ellipse 1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.wildclient.ru/assets/img/Hide Icon.svg
+File Name: D:\rabochi stol ch cges\www.wildclient.ru\assets\img\Hide Icon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.wildclient.ru/assets/img/kisspng-telegram-computer-icons-logo-social-media-5af2fe4b5021d3 1.svg
+File Name: D:\rabochi stol ch cges\www.wildclient.ru\assets\img\kisspng-telegram-computer-icons-logo-social-media-5af2fe4b5021d3 1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.wildclient.ru/assets/img/Login 1.svg
+File Name: D:\rabochi stol ch cges\www.wildclient.ru\assets\img\Login 1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.wildclient.ru/assets/img/Optifine Icon.svg
+File Name: D:\rabochi stol ch cges\www.wildclient.ru\assets\img\Optifine Icon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.wildclient.ru/assets/img/pngegg (1) 1.svg
+File Name: D:\rabochi stol ch cges\www.wildclient.ru\assets\img\pngegg (1) 1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.wildclient.ru/assets/img/Settings Icon.svg
+File Name: D:\rabochi stol ch cges\www.wildclient.ru\assets\img\Settings Icon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.wildclient.ru/assets/img/W (1).svg
+File Name: D:\rabochi stol ch cges\www.wildclient.ru\assets\img\W (1).svg
+Content Type: image/svg+xml
+
+Uri: https://www.wildclient.ru/assets/micromodal.css?v=55
+File Name: D:\rabochi stol ch cges\www.wildclient.ru\assets\micromodal.css
+Content Type: text/css
+
+Uri: https://www.wildclient.ru/assets/micromodal.min.js
+File Name: D:\rabochi stol ch cges\www.wildclient.ru\assets\micromodal.min.js
+Content Type: application/javascript
+
+Uri: https://www.wildclient.ru/discord.php
+File Name: D:\rabochi stol ch cges\www.wildclient.ru\discord.php.html
+Content Type: text/html
+
+Uri: https://www.wildclient.ru/res/icon.png
+File Name: D:\rabochi stol ch cges\www.wildclient.ru\res\icon.png
+Content Type: image/png
+
